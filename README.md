@@ -2,7 +2,7 @@
 
 ### ¡Hola! 👋
 
-Permíteme presentarme. Soy Miguel Angel Luna Yunga, una persona apasionada y comprometida con mi carrera. Me encanta el tema de la programación y la tecnología, que se encuentra en constante cambio para el beneficio de todas las personas, me gustaría dar mi aporte con lo que me encuentro estudiando actualmente, y siempre estoy en busca de nuevas oportunidades para aprender y crecer como profesional. Al estar estudiando la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja (UNL) , he desarrollado habilidades en lenguajes de programación como:
+Permíteme presentarme. Soy Miguel Angel Luna Yunga, una persona apasionada y comprometido con mi carrera. Me encanta el tema de la programación y la tecnología, que se encuentra en constante cambio para el beneficio de todas las personas, me gustaría dar mi aporte con lo que me encuentro estudiando actualmente, y siempre estoy en busca de nuevas oportunidades para aprender y crecer como profesional. Al estar estudiando la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja (UNL) , he desarrollado habilidades en lenguajes de programación como:
 
 - C.
 - HTML 
