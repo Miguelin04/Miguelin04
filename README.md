@@ -1,4 +1,3 @@
-![image](https://github.com/Miguelin04/Miguelin04/assets/118997463/bf8a9066-beec-43c5-a79a-6ab6bdded0e8) ![image] 
 (https://github.com/Miguelin04/Miguelin04/assets/118997463/011cb50d-6760-4b63-a1a7-c973c9072e07)
 
 ### ¡Hola! 👋
