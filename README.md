@@ -1,4 +1,4 @@
-(https://github.com/Miguelin04/Miguelin04/assets/118997463/011cb50d-6760-4b63-a1a7-c973c9072e07)
+![image](https://github.com/Miguelin04/Miguelin04/assets/118997463/1df3762a-c5e1-4929-a652-342cfd294a6a) ![image](https://github.com/Miguelin04/Miguelin04/assets/118997463/490fd190-eec1-4b0c-8b9c-0ed928a0ba07)
 
 ### ¡Hola! 👋
   
