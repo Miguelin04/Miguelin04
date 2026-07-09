@@ -32,7 +32,7 @@ Estudiante de la **Universidad Nacional de Loja (UNL)**. Me apasiona transformar
 
 ### 🌟 Proyectos Destacados
 
-#### 🌿 [BloomWatch 2.0](https://github.com/Miguelin04/BloomWatch2.0h)
+#### 🌿 [BloomWatch 2.0](https://github.com/Miguelin04/BloomWatch2.0)
 Prototipo avanzado de monitoreo ambiental. Una interfaz fluida para visualizar datos críticos de naturaleza.
 *   **Tech:** React, Vite, TailwindCSS.
 *   **Highlight:** Optimizado para una experiencia de usuario sin fricción y carga ultrarrápida.
