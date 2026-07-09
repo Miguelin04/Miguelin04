@@ -37,7 +37,7 @@ Prototipo avanzado de monitoreo ambiental. Una interfaz fluida para visualizar d
 *   **Tech:** React, Vite, TailwindCSS.
 *   **Highlight:** Optimizado para una experiencia de usuario sin fricción y carga ultrarrápida.
 
-#### 🎱 [BingoMaster AI] (https://bingo-aso.vercel.app/)
+#### 🎱 [BingoMaster AI](https://bingo-aso.vercel.app/)
 Juego de Bingo interactivo potenciado con la **API de Google Gemini** para una experiencia inteligente.
 *   **Tech:** React 19, Gemini AI SDK, Canvas Confetti.
 *   **Feature:** Integración de IA generativa para dinamizar las partidas.
